@@ -112,9 +112,3 @@ textarea{
     justify-content: center;
     margin-top: 30px;
 }
-@media(max-width:768px){
-    .section{
-        display: flex;
-        flex-direction: column;
-    }
-}
